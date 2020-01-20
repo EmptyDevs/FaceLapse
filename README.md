@@ -1,6 +1,6 @@
 # facelapse
 
-A new Flutter project.
+A flutter project to build a face timelapse application on IOS and Android 10.
 
 ## Getting Started
 
